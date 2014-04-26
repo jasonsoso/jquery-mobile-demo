@@ -1,5 +1,4 @@
-jquery-mobile-demo
-==================
-![](https://raw.github.com/jasonsoso/jquery-mobile-demo/master/img/contact.PNG)
+## jquery-mobile demo ##
 
-![](https://raw.github.com/jasonsoso/jquery-mobile-demo/master/img/form.PNG)
+![contact](img/contact.PNG)
+![form](img/form.PNG)
